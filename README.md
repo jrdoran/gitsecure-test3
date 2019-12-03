@@ -1,4 +1,4 @@
-Project Title
+Project Title 2
 
 One Paragraph of project description goes here
 Getting Started
